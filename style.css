@@ -11,7 +11,7 @@ header{
     color:black;
 }
 
-section{
+.chamada{
     background-color:aquamarine;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -41,7 +41,7 @@ h1 {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid green;
+    border: 3px solid peachpuff;
 }
 
 .categoria h2 {
